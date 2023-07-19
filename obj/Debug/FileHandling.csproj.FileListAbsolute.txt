@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\FileHandling\bin\Debug\FileHandling.exe.config
+D:\Raven\Practice Exercise\C#\FileHandling\bin\Debug\FileHandling.exe
+D:\Raven\Practice Exercise\C#\FileHandling\bin\Debug\FileHandling.pdb
+D:\Raven\Practice Exercise\C#\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\FileHandling\obj\Debug\FileHandling.exe
+D:\Raven\Practice Exercise\C#\FileHandling\obj\Debug\FileHandling.pdb
